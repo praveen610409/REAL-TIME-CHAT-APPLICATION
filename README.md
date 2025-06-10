@@ -24,5 +24,3 @@ Real-time chat apps are used in many different settings. In the workplace, they 
 Security is also an important part of any chat application. Most platforms today use encryption to keep messages private and ensure data is safely transmitted.
 
 In summary, a Real-Time Chat Application brings people together by enabling instant, seamless communication. Whether for work, support, or casual conversation, it's a modern, essential tool for staying connected anytime, anywhere.
-
-#OUTPUT:
