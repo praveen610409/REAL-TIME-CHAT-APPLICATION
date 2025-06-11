@@ -26,4 +26,5 @@ Security is also an important part of any chat application. Most platforms today
 In summary, a Real-Time Chat Application brings people together by enabling instant, seamless communication. Whether for work, support, or casual conversation, it's a modern, essential tool for staying connected anytime, anywhere.
 
 #OUTPUT:
+![Image](https://github.com/user-attachments/assets/06212ff0-8dca-4a70-afd9-700eb176dd58)
 
